@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">problem statement</string>
+    <string name="fullname">Full Name</string>
+    <string name="RegistrationForm">Registration Form</string>
+    <string name="wahaha">Welcome to Adventure Learning Club!</string>
+    <string name="fristname">First Name</string>
+    <string name="gender">Gender</string>
+    <string name="school">School</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+</resources>
